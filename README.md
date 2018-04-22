@@ -1,2 +1,2 @@
 # TICTACTOE
-A simple tictactoe game nade using java awt.
+A simple tictactoe game made using java awt.
